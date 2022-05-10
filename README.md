@@ -1,5 +1,5 @@
 # Social-networking-Website 
-This project is done within my Bachelor program in year 2015 with the aim of designing a
+This project is done within my Bachelor program in year 2014 with the aim of designing a
 dynamic website for fun and online services that centre on possible building of social relations 
 among friends and relatives, by sending of public and private messages to each other.
 http://miun.diva-portal.org/smash/record.jsf?pid=diva2%3A789351&dswid=-4876
